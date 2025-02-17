@@ -5,7 +5,7 @@
 -  Pronouns: She/Her
 -  I made some small videogame projects in Unreal Engine, and currently working on a fox game, and additionally an app I had an idea for.
 -  Fun fact: although I don't fully agree with the typology system, I am well researched on the topic. I am INTP INTp 5w6, 583. 
-   I have a cat, I love coffee, I play videogames, I also draw and I used to make music. 
+   I have a cat, I love coffee, I play videogames, I also draw sometimes.
 
 <!---
 AlexLav3/AlexLav3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
