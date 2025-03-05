@@ -8,10 +8,7 @@
    I have a cat, I love coffee, I play videogames, I also draw sometimes.
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexlav3"/>
-
-
-[![Alexlav3's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=alexlav3)](https://github.com/alexlav3/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexlav3&hide_progress=true)
 <!---
 AlexLav3/AlexLav3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
