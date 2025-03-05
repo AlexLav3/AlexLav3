@@ -8,7 +8,7 @@
    I have a cat, I love coffee, I play videogames, I also draw sometimes.
 
 
-[![AlexLav3's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexlav3)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexlav3"/>
 <!---
 AlexLav3/AlexLav3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
