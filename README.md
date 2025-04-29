@@ -4,8 +4,7 @@
 -  I’m currently learning C, C++, Unreal Engine, App development, Cybersec.
 -  Pronouns: She/Her
 -  I made some small videogame projects in Unreal Engine, and currently working on a fox game, and additionally an app I had an idea for.
--  Random facts: although I don't fully agree with the typology system, I am well researched on the topic. I am INTP INTp 5w6, 583. 
-   I have a cat, I love coffee, I play videogames, I also draw sometimes.
+-  Random facts: I have a cat, I love coffee, I play videogames.
 
 
 ![Top Langs-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=alexlav3&size_weight=0.5&count_weight=0.5&layout=compact)
