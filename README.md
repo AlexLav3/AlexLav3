@@ -1,8 +1,6 @@
--  Hi, I’m Alex! 
 -  Currently studying at 42Prague, and working full-time.
--  I’m interested in coding, forensics, and many other topics. I'm generally a curious person, eager to research, learn and understand more.
--  I’m currently learning C, C++, Unreal Engine, Digital Forensics.
--  Pronouns: She/Her
+-  Interested in coding, digiral forensics, and many other topics. Obsessed with learning.
+-  Currently learning C, C++, Unreal Engine, Digital Forensics.
 -  Random facts: I have a cat, I love coffee, I play videogames.
 
 
