@@ -26,8 +26,7 @@
 <img width="150" height="150" alt="push_swape" src="https://github.com/user-attachments/assets/b2872939-6f55-41a8-8429-0dbd76a0da60" />
 <img width="150" height="150" alt="so_longm" src="https://github.com/user-attachments/assets/d599a64c-0cc6-43fc-83a0-fda3c858a57b" />
 
-## 📁 In Repos
-You can find:
+ 📁 In Repos
 - C-based foundational projects (42 core curriculum)
 - Small utilities written for learning purposes
 - Early game experiments using MinilibX
