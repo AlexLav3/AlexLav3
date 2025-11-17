@@ -25,6 +25,7 @@
 <img width="150" height="150" alt="minitalkm" src="https://github.com/user-attachments/assets/0d9f8955-403d-4b4e-9202-f7e3ec25bc9f" />
 <img width="150" height="150" alt="push_swape" src="https://github.com/user-attachments/assets/b2872939-6f55-41a8-8429-0dbd76a0da60" />
 <img width="150" height="150" alt="so_longm" src="https://github.com/user-attachments/assets/d599a64c-0cc6-43fc-83a0-fda3c858a57b" />
+<img width="150" height="150" alt="minishellm" src="https://github.com/user-attachments/assets/a1c42ded-1df9-40b7-9268-0aede8043d72" />
 
  📁 In Repos
 - C-based foundational projects (42 core curriculum)
