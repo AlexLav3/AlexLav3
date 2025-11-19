@@ -29,6 +29,7 @@
 
  📁 In Repos
 - C-based foundational projects (42 core curriculum)
+- C++ exercises from 42 core curriculum
 - Small utilities written for learning purposes
 - Early game experiments using MinilibX
-- Small games completed or work in progress with Unreal Engine 
+- Small games completed or in progress with Unreal Engine 
