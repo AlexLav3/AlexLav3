@@ -1,12 +1,10 @@
 
+![gif](assets/gif.gif)
 - Currently studying at 42Prague while working full-time.
 - Focused on systems-level programming, digital forensics, and game development.
 - Learning C, C++, Unreal Engine, and Digital Forensics.
 - Passionate about understanding how things work from the ground up.
 - Random facts: I have a cat, love coffee, and enjoy games with strategy and narrative depth.
-
-
-![Top Langs-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=alexlav3&size_weight=0.5&count_weight=0.5&layout=compact)
 
 
 ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?logo=unrealengine&logoColor=white)
