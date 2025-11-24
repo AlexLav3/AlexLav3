@@ -1,6 +1,6 @@
 
 ![gif](assets/gif.gif)
-- Currently studying at 42Prague while working full-time.
+- Currently studying at 42Prague.
 - Focused on systems-level programming, digital forensics, and game development.
 - Learning C, C++, Unreal Engine, and Digital Forensics.
 - Passionate about understanding how things work from the ground up.
@@ -32,5 +32,5 @@ https://alexlav3.github.io/AlexLav/
 - C-based foundational projects (42 core curriculum)
 - C++ exercises from 42 core curriculum
 - Small utilities written for learning purposes
-- Early game experiments using MinilibX
+- Game experiments using MinilibX
 - Small games completed or in progress with Unreal Engine 
