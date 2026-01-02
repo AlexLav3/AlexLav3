@@ -15,7 +15,6 @@ https://alexlav3.github.io/AlexLav/
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?logo=visual-studio&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elena-lavricheva-77679a227/)
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=AlexLav3.visitor-badge&format=true) 
 
 <img width="150" height="150" alt="born2beroote" src="https://github.com/user-attachments/assets/534f1a31-3747-4f9a-93c2-41d5a52d4d6d" />
 <img width="150" height="150" alt="ft_printfe" src="https://github.com/user-attachments/assets/4be5b31c-1d32-45ae-8541-1cecd68de79d" />
