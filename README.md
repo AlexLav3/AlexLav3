@@ -30,5 +30,5 @@ https://alexlav3.github.io/AlexLav/
 - C-based foundational projects (42 core curriculum)
 - C++ exercises from 42 core curriculum
 - Small utilities written for learning purposes
-- Game experiments using MinilibX
+- Game experiments using MinilibX (c) & SFML (cpp)
 - Small games completed or in progress with Unreal Engine 
