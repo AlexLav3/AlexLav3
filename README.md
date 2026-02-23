@@ -4,7 +4,7 @@
 - Focused on systems-level programming, digital forensics, and game development.
 - Learning Javascript, C, C++, Unreal Engine, and Digital Forensics.
 - Passionate about understanding how things work from the ground up.
-- Random facts: I have a cat, love coffee, and enjoy games with strategy and narrative depth.
+- Random facts: I have a cat, love coffee, and enjoy games with strategy.
 
 https://alexlav3.github.io/AlexLav/
 
